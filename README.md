@@ -3,7 +3,7 @@
 This is a simple, fully functional **To-Do List** web app built using **HTML**, **CSS**, and **JavaScript**. It allows users to add, check off, delete, and persist tasks using the browser's **localStorage**.
 
 ## 🚀 Live Demo
-👉 [Click here to use it](https://harika-adepu.github.io/Project/)
+👉 [Click here to use it](https://harika-adepu.github.io/TodoList-Application/)
 
 ## ✅ Features
 - Add new tasks
