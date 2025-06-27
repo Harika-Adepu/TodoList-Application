@@ -113,6 +113,7 @@
 .delete-button {
     margin-right: 8px;
     outline: none;
+    border: none;
 }
 
 .checked {
