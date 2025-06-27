@@ -106,9 +106,9 @@ function createAndAppendTodo(todo) {
     deleteIconContainer.classList.add("delete-icon-container");
     labelContainer.appendChild(deleteIconContainer);
 
-    let deleteIcon = document.createElement("i");
-    deleteIcon.textContent = "✖️";
-    deleteIcon.classList.add("delete-icon");
+    let deleteIcon = document.createElement("button");
+    deleteIcon.textContent = "delete";
+    deleteIcon.classList.add("delete-button");
 
     deleteIcon.onclick = function() {
         onDeleteTodo(todoId);
